@@ -884,6 +884,10 @@ footer {
     .education-box{
         width: 100%;
     }
+    
+    .footer-menu{
+        width: 100%;
+    }
 
 }
 
@@ -908,10 +912,18 @@ footer {
     .education-box{
         width: 100%;
     }
+    
+    .footer-menu{
+        width: 100%;
+    }
 }
 
-@media only screen and (max-width: 540px){
+@media only screen and (max-width: 440px){
  .education-box{
      width:100%;
  }   
+    
+    .footer-menu{
+        width: 100%;
+    }
 }
