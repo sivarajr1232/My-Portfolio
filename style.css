@@ -885,12 +885,6 @@ footer {
         width: 100%;
     }
     
-    .footer-menu{
-        width: 100%;
-    }
-    .middle-footer{
-        width: 100%;
-    }
 
 }
 
@@ -916,12 +910,7 @@ footer {
         width: 100%;
     }
     
-    .footer-menu{
-        width: 100%;
-    }
-    .middle-footer{
-        width: 100%;
-    }
+    
 }
 
 @media only screen and (max-width: 440px){
@@ -929,7 +918,4 @@ footer {
      width:100%;
  }   
     
-    .footer-menu{
-        width: 100%;
-    }
 }
