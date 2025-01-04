@@ -903,3 +903,10 @@ footer {
         width: 100%;
     }
 }
+
+@media only screen and (max-width: 540px){
+ .education-container .education-box{
+    width: 400px;
+    height: 200px;
+ }   
+}
